@@ -1,4 +1,4 @@
-package Algorithm_moon.Java;
+
 
 /*
 두개의 정수를 입력받아 그 사이의 모든 정수의 합을 구하시오.
