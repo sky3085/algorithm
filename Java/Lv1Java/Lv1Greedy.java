@@ -1,3 +1,4 @@
+package Lv1Java;
 import java.util.Arrays;
 
 //https://school.programmers.co.kr/learn/courses/30/lessons/42862

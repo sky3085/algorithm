@@ -1,3 +1,5 @@
+package Lv1Java;
+
 /**
  * Lv1division
  * https://school.programmers.co.kr/learn/courses/30/lessons/87389

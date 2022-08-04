@@ -1,3 +1,4 @@
+package Lv1Java;
 // https://school.programmers.co.kr/learn/courses/30/lessons/12919
 
 public class Lv1stringKim {

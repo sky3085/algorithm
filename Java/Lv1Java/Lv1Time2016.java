@@ -1,3 +1,4 @@
+package Lv1Java;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 

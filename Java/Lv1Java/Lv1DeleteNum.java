@@ -1,3 +1,5 @@
+package Lv1Java;
+
 import java.util.stream.IntStream;
 
 //https://school.programmers.co.kr/learn/courses/30/lessons/12935
